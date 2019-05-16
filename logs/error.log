@@ -1,0 +1,14 @@
+2019/05/15 18:29:02 [emerg] 6876#12904: invalid parameter "server_name" in D:\360MoveData\Users\Administrator\Desktop\kaaden-program\nginx/conf/nginx.conf:19
+2019/05/15 18:29:35 [emerg] 11620#13120: invalid parameter "server_name" in D:\360MoveData\Users\Administrator\Desktop\kaaden-program\nginx/conf/nginx.conf:19
+2019/05/15 18:30:23 [emerg] 5900#3140: invalid parameter "server_name" in D:\360MoveData\Users\Administrator\Desktop\kaaden-program\nginx/conf/nginx.conf:19
+2019/05/15 18:30:35 [emerg] 1540#10380: invalid parameter "server_name" in D:\360MoveData\Users\Administrator\Desktop\kaaden-program\nginx/conf/nginx.conf:19
+2019/05/15 18:30:49 [emerg] 3572#6016: invalid parameter "server_name" in D:\360MoveData\Users\Administrator\Desktop\kaaden-program\nginx/conf/nginx.conf:19
+2019/05/15 18:31:44 [emerg] 8404#11208: invalid parameter "server_name" in D:\360MoveData\Users\Administrator\Desktop\kaaden-program\nginx/conf/nginx.conf:19
+2019/05/15 18:31:53 [emerg] 9228#2660: invalid parameter "server_name" in D:\360MoveData\Users\Administrator\Desktop\kaaden-program\nginx/conf/nginx.conf:19
+2019/05/15 18:32:01 [emerg] 7232#1208: invalid parameter "server_name" in D:\360MoveData\Users\Administrator\Desktop\kaaden-program\nginx/conf/nginx.conf:19
+2019/05/15 18:32:22 [notice] 12544#10708: signal process started
+2019/05/15 18:32:22 [error] 12544#10708: OpenEvent("Global\ngx_reload_2260") failed (2: The system cannot find the file specified)
+2019/05/15 18:32:59 [notice] 732#6248: signal process started
+2019/05/15 18:33:02 [notice] 10688#7252: signal process started
+2019/05/15 18:33:03 [notice] 1888#9964: signal process started
+2019/05/15 18:33:23 [error] 10820#6836: *1 CreateFile() "D:\360MoveData\Users\Administrator\Desktop\kaaden-program\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: kaadendd.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
